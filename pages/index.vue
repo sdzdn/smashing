@@ -11,7 +11,7 @@
       <p>Please eat tacos.</p>
     </div>
     <div class="links">
-      <p>Go follow Hawk Philsworth</p>
+      <p>Go follow TJ</p>
     </div>
     <div class="nextpage">Projects ></div>
   </main>
